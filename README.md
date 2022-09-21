@@ -1,1 +1,1 @@
-# miccai-2022-tutorial.github.io
+# miccai22-tutorial-automl
